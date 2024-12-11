@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/soul_soil",
+    "up": "minecraft:block/soul_soil",
+    "north": "minecraft:block/soul_soil",
+    "east": "minecraft:block/soul_soil",
+    "south": "minecraft:block/soul_soil",
+    "west": "minecraft:block/soul_soil",
+    "particle": "minecraft:block/soul_soil"
+  },
+  "render_type": "solid"
+}
